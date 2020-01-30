@@ -1,9 +1,12 @@
-### 个人信息
-#### ID：reedjing
-#### 学历：本科
-#### 学校：浙江万里学院
-#### 地址：浙江省
-
-### 研究方向：web前端开发
-
-### 荣誉与奖励
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>reedjing</h1>
+      <p><b>本科生</b></p>
+      <p><b>地址：浙江省温州市</b></p>
+    </td>
+    <td width="25%">
+      <img src="timg (1).jfif" width="100%"
+    </td>
+  </tr>
+</table>
