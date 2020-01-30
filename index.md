@@ -6,7 +6,7 @@
       <p><b>地址：浙江省温州市</b></p>
     </td>
     <td width="25%">
-      <img src="timg (1).jfif" width="100%"
+      <img src="/timg (1).jfif" width="100%"
     </td>
   </tr>
 </table>
