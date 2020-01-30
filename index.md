@@ -8,7 +8,7 @@
       <p><b>熟悉python基础，html，css。</b></p>
     </td>
     <td width="25%">
-      <img src="timg (1).jfif" width="100%"
+      <img src="/timg (1).jfif" width="100%"
     </td>
   </tr>
 </table>
